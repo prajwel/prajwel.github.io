@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-My interests are in Python, Astronomy, Music, and Sports. 
+My interests are in Astronomy, Python, Music, and Sports. 
 
 This page will probably end up having various sorts of stuff. Haven't yet decided on the content. 
