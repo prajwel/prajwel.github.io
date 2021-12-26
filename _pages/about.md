@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- I am currently working at the AstroSat UVIT Payload Operations Centre, Indian Institute of Astrophysics, Bangalore.   -->
-I primarily work as part of the AstroSat UVIT team at UVIT Payload Operations Centre, Indian Institute of Astrophysics, Bangalore. I am involved with the routine processing of UVIT data, monitoring the instrument performance, and developing software in Python for scientific and other purposes. In parallel, I am also working on my PhD thesis that I hope to complete soon (how soon? good question). My interests can be best explained as that of a monkey who tries to get his hands in whatever appeals.
+I primarily work as part of the AstroSat UVIT team at UVIT Payload Operations Centre, Indian Institute of Astrophysics, Bangalore. I am involved with the routine processing of UVIT data, monitoring the instrument performance, and developing software in Python. I am also working on my PhD thesis that I hope to complete soon (how soon? good question). My interests can be best explained as a monkey who tries to get his hands in whatever appeals.
 
 You can find my articles on <a href="https://scholar.google.co.in/citations?user=zSnUDggAAAAJ&hl=en">Google Scholar profile</a>.
 
