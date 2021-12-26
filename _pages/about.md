@@ -13,4 +13,4 @@ I primarily work as part of the AstroSat UVIT team at UVIT Payload Operations Ce
 
 You can find my articles on <a href="https://scholar.google.co.in/citations?user=zSnUDggAAAAJ&hl=en">Google Scholar profile</a>.
 
-If you came looking for Curvit, you can find the documentation at <a href="curvit.readthedocs.io">curvit.readthedocs.io</a>
+If you came looking for Curvit, you can find the documentation <a href="https://curvit.readthedocs.io">here.</a>
