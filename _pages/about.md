@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<!-- I am currently working at the AstroSat UVIT Payload Operations Centre, Indian Institute of Astrophysics, Bangalore.   -->
-I am currently working at the AstroSat UVIT Payload Operations Centre, Indian Institute of Astrophysics, Bangalore. I am involved with the routine UVIT data processing, instrument monitoring, and Python software development. I am also working on my PhD thesis on star formation. 
+I work at the AstroSat UVIT Payload Operations Centre, Indian Institute of Astrophysics, Bangalore. 
 
 You can find my articles on <a href="https://scholar.google.co.in/citations?user=zSnUDggAAAAJ&hl=en">Google Scholar profile</a>.
 
