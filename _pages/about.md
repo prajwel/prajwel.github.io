@@ -13,6 +13,8 @@ I am a project scientist at the <a href="https://en.wikipedia.org/wiki/AstroSat"
 * Software development for monitoring, handling, processing and analysing UVIT health and science data. 
 * Detecting and solving UVIT instrument problems as they arise. 
 
+Presently, my significant efforts go toward creating a new UVIT data release; this will have science-ready data with a better combination of UVIT episodes and reliable astrometry. A new UVIT data pipeline is being developed towards this end.
+
 I am interested in open-source software and projects. Please visit my <a href="https://github.com/prajwel">Github profile</a> to see my interests and activity. Also, please see: 
 * <a href="https://github.com/prajwel/curvit">Curvit</a>
 * <a href="https://github.com/prajwel/aafitrans">Aafitrans</a>
