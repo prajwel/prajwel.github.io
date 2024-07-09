@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a project scientist at the <a href="https://en.wikipedia.org/wiki/AstroSat">AstroSat</a> UltraViolet Imaging Telescope (UVIT) Payload Operations Centre, Indian Institute of Astrophysics, Bangalore. UVIT is a space telescope onboard the AstroSat space observatory. My job involves:
+I am a project scientist at the <a href="https://en.wikipedia.org/wiki/AstroSat">AstroSat</a> UltraViolet Imaging Telescope (<a href="https://www.iiap.res.in/projects/uvit/">UVIT</a>) Payload Operations Centre, Indian Institute of Astrophysics, Bangalore. UVIT is a space telescope onboard the AstroSat space observatory. My job involves:
 * Routine UVIT health monitoring and science data processing.
 * Software development for monitoring, handling, processing and analysing UVIT health and science data. 
 * Detecting and solving UVIT instrument problems as they arise. 
