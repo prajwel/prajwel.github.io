@@ -10,14 +10,15 @@ redirect_from:
 
 I am a project scientist at the <a href="https://en.wikipedia.org/wiki/AstroSat">AstroSat</a> UltraViolet Imaging Telescope (<a href="https://www.iiap.res.in/projects/uvit/">UVIT</a>) Payload Operations Centre, Indian Institute of Astrophysics, Bangalore. UVIT is a space telescope onboard the AstroSat space observatory.
 
-**How to contact me:** &#112;&#114;&#97;&#106;&#119;&#101;&#108;&#112;&#106;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;
+**&#69;&#109;&#97;&#105;&#108;:** **&#112;&#114;&#97;&#106;&#119;&#101;&#108;&#112;&#106;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;**
 
 My job involves:
 * Routine UVIT health monitoring and science data processing.
 * Software development for monitoring, handling, processing and analysing UVIT health and science data. 
 * Detecting and solving UVIT instrument problems as they arise. 
 
-Presently, my significant efforts go toward creating a new UVIT data release. A new UVIT data pipeline has been developed towards this end (<a href="https://github.com/prajwel/UVPipe">UVPipe</a>). The new UVIT observations are being processed using the new pipeline. All UVIT data will eventually be processed using the new pipeline. 
+Currently, my primary focus is on creating a new UVIT data release. To achieve this, a new UVIT data pipeline, <a href="https://github.com/prajwel/UVPipe">UVPipe</a>, has been developed. The latest UVIT observations are being processed using this new pipeline, and eventually, all UVIT data will be reprocessed through <a href="https://github.com/prajwel/UVPipe">UVPipe</a>.
+
 
 I am interested in open-source software and projects. Please visit my <a href="https://github.com/prajwel">Github profile</a> to see the activity. Also, please see: 
 * <a href="https://github.com/prajwel/curvit">Curvit</a>
