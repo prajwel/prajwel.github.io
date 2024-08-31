@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a project scientist at the <a href="https://en.wikipedia.org/wiki/AstroSat">AstroSat</a> UltraViolet Imaging Telescope (<a href="https://www.iiap.res.in/projects/uvit/">UVIT</a>) Payload Operations Centre, Indian Institute of Astrophysics, Bangalore. UVIT is a space telescope onboard the AstroSat space observatory.
+I am a project scientist at the <a href="https://en.wikipedia.org/wiki/AstroSat">AstroSat</a> UltraViolet Imaging Telescope (<a href="https://www.iiap.res.in/projects/uvit/">UVIT</a>) Payload Operations Centre, Indian Institute of Astrophysics, Bangalore. UVIT is a space telescope onboard the AstroSat space observatory (<a href="https://www.flickr.com/photos/iiabengaluru/albums/72177720319674566/">Click to see the beautiful cosmic images captured by UVIT</a>). 
 
 **&#69;&#109;&#97;&#105;&#108;:** **&#112;&#114;&#97;&#106;&#119;&#101;&#108;&#112;&#106;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;**
 
