@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a project scientist at the <a href="https://en.wikipedia.org/wiki/AstroSat">AstroSat</a> UltraViolet Imaging Telescope (<a href="https://www.iiap.res.in/projects/uvit/">UVIT</a>) Payload Operations Centre (POC), Indian Institute of Astrophysics, Bangalore. UVIT is a space telescope onboard the AstroSat space observatory. <a href="https://www.flickr.com/photos/iiabengaluru/albums/72177720319674566/">Click here to explore the stunning cosmic images captured by UVIT</a>. UVIT is India's first and <a href="https://ui.adsabs.harvard.edu/public-libraries/-6O7VXcNTuSE-DIy8hWl6Q">most successful space telescope</a> with high-resolution imaging.
+I am a project scientist at the <a href="https://en.wikipedia.org/wiki/AstroSat">AstroSat</a> UltraViolet Imaging Telescope (<a href="https://www.iiap.res.in/projects/uvit/">UVIT</a>) Payload Operations Centre (POC), Indian Institute of Astrophysics, Bangalore. UVIT is a space telescope onboard the AstroSat space observatory. <a href="https://www.flickr.com/photos/iiabengaluru/albums/72177720319674566/">Click here to explore the stunning cosmic images captured by UVIT</a>. UVIT is India's first and <a href="https://ui.adsabs.harvard.edu/public-libraries/-6O7VXcNTuSE-DIy8hWl6Q">most successful space telescope</a> with high-resolution imaging capability.
 
 **&#69;&#109;&#97;&#105;&#108;:** **&#112;&#114;&#97;&#106;&#119;&#101;&#108;&#112;&#106;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;**
 
