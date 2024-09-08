@@ -12,7 +12,7 @@ I am a project scientist at the <a href="https://en.wikipedia.org/wiki/AstroSat"
 
 **&#69;&#109;&#97;&#105;&#108;:** **&#112;&#114;&#97;&#106;&#119;&#101;&#108;&#112;&#106;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;**
 
-I have been part of the UVIT POC since 2016. My job at the UVIT POC involves:
+I have been part of the <a href="https://www.iiap.res.in/projects/uvit/poc/">UVIT POC</a> since 2016. My job at the UVIT POC involves:
 * Routine monitoring of UVIT's health and processing of its scientific data.
 * Developing software for monitoring, handling, processing, and analysing UVIT's health and scientific data.
 * Detecting and solving any issues with the UVIT instrument as they arise. 
