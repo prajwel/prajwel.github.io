@@ -26,7 +26,7 @@ I am **passionate about open-source** software and projects. You can check out m
 * <a href="https://github.com/prajwel/UVIT_notebooks">UVIT notebooks</a>
 
 
-I am actively involved in astronomy research, particularly exploring how **AGN activity impacts star formation in galaxies**. You can explore my publications on my <a href="https://scholar.google.co.in/citations?user=zSnUDggAAAAJ&hl=en">Google Scholar profile</a>. Here's a Twitter thread discussing a recent paper:
+I am actively involved in astronomy research, particularly investigating how **AGN activity impacts star formation in galaxies**. You can explore my publications on my <a href="https://scholar.google.co.in/citations?user=zSnUDggAAAAJ&hl=en">Google Scholar profile</a>. Here's a Twitter thread discussing a recent paper:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We studied the effect of Active Galactic Nucleus (AGN) on star formation in the galaxy NGC 3982 using GALEX, MaNGA, and VLASS data in a new article (Accepted in A&amp;A).<br><br>The manuscript (check out the interactive figure inside!): <a href="https://t.co/4ZqQXgnZxS">https://t.co/4ZqQXgnZxS</a><a href="https://twitter.com/sdssurveys?ref_src=twsrc%5Etfw">@sdssurveys</a> <a href="https://twitter.com/plotlygraphs?ref_src=twsrc%5Etfw">@plotlygraphs</a> <a href="https://t.co/SawIotJvdw">pic.twitter.com/SawIotJvdw</a></p>&mdash; Prajwel Joseph (@Prajwel_Joseph) <a href="https://twitter.com/Prajwel_Joseph/status/1569528979098583040?ref_src=twsrc%5Etfw">September 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
