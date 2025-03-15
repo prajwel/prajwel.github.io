@@ -28,6 +28,9 @@ I am **passionate about open-source** software and projects. You can check out m
 
 I am actively involved in astronomy research, particularly investigating how **AGN activity impacts star formation in galaxies**. You can explore my publications on my <a href="https://scholar.google.co.in/citations?user=zSnUDggAAAAJ&hl=en">Google Scholar profile</a>. 
 
+Beyond my professional work, I find joy in art, music, films, poetry, and all the wonderful things that make life truly beautiful.
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:nwy3smcgecvmxcz2d3r4wv5w/app.bsky.feed.post/3ljkn6x24ls2h" data-bluesky-cid="bafyreig6ojovawe7ezcvdtss6e5jnzpq4ukvwl23zq2s4b73z2mf4bfr3u" data-bluesky-embed-color-mode="system"><p lang="en">ARTSonomy! 
 
+Bringing arts and astronomy together at the Indian Institute of Astrophysics, Bangalore.
 
-
+#astronomy #arts #IIAPBangalore #bengaluru #bangalore #nationalscienceday<br><br><a href="https://bsky.app/profile/did:plc:nwy3smcgecvmxcz2d3r4wv5w/post/3ljkn6x24ls2h?ref_src=embed">[image or embed]</a></p>&mdash; Prajwel Joseph (<a href="https://bsky.app/profile/did:plc:nwy3smcgecvmxcz2d3r4wv5w?ref_src=embed">@prajwel.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:nwy3smcgecvmxcz2d3r4wv5w/post/3ljkn6x24ls2h?ref_src=embed">March 4, 2025 at 7:37 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
