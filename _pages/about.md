@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-**I am a project scientist** at the <a href="https://en.wikipedia.org/wiki/AstroSat">AstroSat</a> UltraViolet Imaging Telescope (<a href="https://www.iiap.res.in/projects/uvit/">UVIT</a>) Payload Operations Centre (POC), Indian Institute of Astrophysics, Bangalore. UVIT is a high-resolution ultraviolet space telescope onboard India’s AstroSat mission. You can explore some of its stunning images <a href="https://www.flickr.com/photos/iiabengaluru/albums/72177720319674566/">here</a>.
+**I am a project scientist** at the <a href="https://en.wikipedia.org/wiki/AstroSat">AstroSat</a> UltraViolet Imaging Telescope (<a href="https://www.iiap.res.in/projects/uvit/">UVIT</a>) Payload Operations Centre (POC), based at the Indian Institute of Astrophysics, Bangalore. UVIT is a high-resolution ultraviolet space telescope onboard India’s AstroSat mission. You can explore some of its stunning images <a href="https://www.flickr.com/photos/iiabengaluru/albums/72177720319674566/">here</a>.
 
-**&#69;&#109;&#97;&#105;&#108;:** **&#112;&#114;&#97;&#106;&#119;&#101;&#108;&#112;&#106;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;**
+📬 **&#69;&#109;&#97;&#105;&#108;:** **&#112;&#114;&#97;&#106;&#119;&#101;&#108;&#112;&#106;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;**
 
-I have been part of the <a href="https://www.iiap.res.in/projects/uvit/poc/">UVIT POC</a> since 2016. Currently, my primary focus is on creating a **<a href="https://arxiv.org/abs/2504.00982">new UVIT data release</a>**.
+I have been part of the <a href="https://www.iiap.res.in/projects/uvit/poc/">UVIT team</a> since 2016. Currently, my primary focus is on creating a **<a href="https://arxiv.org/abs/2504.00982">new UVIT data release</a>**.
 
-I am **passionate about open-source** software and projects. See my <a href="https://github.com/prajwel">Github profile</a>.
+I am **passionate about open-source software**—you can explore my work on <a href="https://github.com/prajwel">my Github profile</a>.
 
-I am actively involved in astronomy research, particularly investigating how **AGN activity impacts star formation in galaxies**. You can find my publications on <a href="https://scholar.google.co.in/citations?user=zSnUDggAAAAJ&hl=en">my Google Scholar profile</a>. 
+You can find my publications on <a href="https://scholar.google.co.in/citations?user=zSnUDggAAAAJ&hl=en">**my Google Scholar profile**</a>. I enjoy exploring new and challenging questions in astrophysics, especially those related to the role of supermassive black holes in shaping galaxies.
 
 Beyond my professional work, I find joy in art, music, films, poetry, and all the wonderful things that make life truly beautiful.
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:nwy3smcgecvmxcz2d3r4wv5w/app.bsky.feed.post/3ljkn6x24ls2h" data-bluesky-cid="bafyreig6ojovawe7ezcvdtss6e5jnzpq4ukvwl23zq2s4b73z2mf4bfr3u" data-bluesky-embed-color-mode="system"><p lang="en">ARTSonomy! 
