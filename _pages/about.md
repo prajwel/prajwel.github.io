@@ -16,7 +16,7 @@ I have been part of the <a href="https://www.iiap.res.in/projects/uvit/poc/">UVI
 
 I am **passionate about open-source software**—you can explore my work on <a href="https://github.com/prajwel">my Github profile</a>.
 
-You can find my publications on <a href="https://scholar.google.co.in/citations?user=zSnUDggAAAAJ&hl=en">**my Google Scholar profile**</a>. I enjoy exploring new and challenging questions in astrophysics, especially those related to the role of supermassive black holes in shaping galaxies.
+Find <a href="https://scholar.google.co.in/citations?user=zSnUDggAAAAJ&hl=en">**my publications on Google Scholar**</a>. I enjoy exploring new and challenging questions in astrophysics, especially those related to the role of supermassive black holes in shaping galaxies.
 
 Beyond my professional work, I find joy in art, music, films, poetry, and all the wonderful things that make life truly beautiful.
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:nwy3smcgecvmxcz2d3r4wv5w/app.bsky.feed.post/3ljkn6x24ls2h" data-bluesky-cid="bafyreig6ojovawe7ezcvdtss6e5jnzpq4ukvwl23zq2s4b73z2mf4bfr3u" data-bluesky-embed-color-mode="system"><p lang="en">ARTSonomy! 
