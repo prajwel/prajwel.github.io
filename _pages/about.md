@@ -12,13 +12,7 @@ redirect_from:
 
 **&#69;&#109;&#97;&#105;&#108;:** **&#112;&#114;&#97;&#106;&#119;&#101;&#108;&#112;&#106;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;**
 
-I have been part of the <a href="https://www.iiap.res.in/projects/uvit/poc/">UVIT POC</a> since 2016. My job at the UVIT POC involves:
-* Monitoring the health and performance of UVIT
-* Processing and analysing its scientific data
-* Developing software for data handling and diagnostics
-* Troubleshooting operational issues as they arise
-  
-Currently, my primary focus is on creating a **<a href="https://arxiv.org/abs/2504.00982">new UVIT data release</a>**.
+I have been part of the <a href="https://www.iiap.res.in/projects/uvit/poc/">UVIT POC</a> since 2016. Currently, my primary focus is on creating a **<a href="https://arxiv.org/abs/2504.00982">new UVIT data release</a>**.
 
 I am **passionate about open-source** software and projects. See my <a href="https://github.com/prajwel">Github profile</a>.
 
