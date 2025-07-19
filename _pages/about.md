@@ -19,12 +19,7 @@ I have been part of the <a href="https://www.iiap.res.in/projects/uvit/poc/">UVI
 
 Currently, my primary focus is on creating a **new UVIT data release**. To achieve this, a new UVIT data pipeline, <a href="https://github.com/prajwel/UVPipe">UVPipe</a>, has been developed. The latest UVIT observations are being processed using this new pipeline, and eventually, all UVIT data will be reprocessed through <a href="https://github.com/prajwel/UVPipe">UVPipe</a>.
 
-I am **passionate about open-source** software and projects. You can check out my work on my <a href="https://github.com/prajwel">Github profile</a>. Here are a few projects I’m involved in:
-* <a href="https://curvit.readthedocs.io/en/latest/">Curvit</a>: For creating light curves using UVIT data.
-* <a href="https://github.com/prajwel/aafitrans">Aafitrans</a>: For matching coordinate lists.
-* <a href="https://github.com/prajwel/canuvit">CanUVIT</a>: For conducting UVIT safety checks.
-* <a href="https://github.com/prajwel/UVIT_notebooks">UVIT notebooks</a>
-
+I am **passionate about open-source** software and projects. You can check out my work on my <a href="https://github.com/prajwel">Github profile</a>.
 
 I am actively involved in astronomy research, particularly investigating how **AGN activity impacts star formation in galaxies**. You can explore my publications on my <a href="https://scholar.google.co.in/citations?user=zSnUDggAAAAJ&hl=en">Google Scholar profile</a>. 
 
