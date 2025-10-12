@@ -12,7 +12,7 @@ redirect_from:
 
 📬 **&#69;&#109;&#97;&#105;&#108;:** **&#112;&#114;&#97;&#106;&#119;&#101;&#108;&#112;&#106;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;**
 
-I have been part of the <a href="https://www.iiap.res.in/projects/uvit/poc/">UVIT team</a> since 2016. Currently, my primary focus is on creating a **<a href="https://arxiv.org/abs/2504.00982">new UVIT data release</a>**.
+I have been part of the <a href="https://www.iiap.res.in/projects/uvit/poc/">UVIT team</a> since 2016. Currently, my primary focus is on creating a **<a href="https://github.com/prajwel/UVPipe">new UVIT data release</a>**.
 
 I am **passionate about open-source software**—you can explore my work on <a href="https://github.com/prajwel">my Github profile</a>.
 
