@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-**I am a project scientist** at the <a href="https://en.wikipedia.org/wiki/AstroSat">AstroSat</a> UltraViolet Imaging Telescope (<a href="https://www.iiap.res.in/projects/uvit/">UVIT</a>) Payload Operations Centre (POC), based at the Indian Institute of Astrophysics, Bangalore. UVIT is a high-resolution ultraviolet space telescope onboard India’s AstroSat mission. You can explore some of its stunning images <a href="https://www.flickr.com/photos/iiabengaluru/albums/72177720319674566/">here</a>.
+**I am a project scientist** at the <a href="https://en.wikipedia.org/wiki/AstroSat">AstroSat</a> UltraViolet Imaging Telescope (<a href="https://www.iiap.res.in/projects/uvit/">UVIT</a>) Payload Operations Centre (POC), based at the Indian Institute of Astrophysics, Bangalore. I've been part of the <a href="https://www.iiap.res.in/projects/uvit/poc/">UVIT team</a> since 2016. UVIT is a high-resolution ultraviolet space telescope onboard India’s AstroSat mission. You can explore some of its stunning images <a href="https://www.flickr.com/photos/iiabengaluru/albums/72177720319674566/">here</a>.
 
 📬 **&#69;&#109;&#97;&#105;&#108;:** **&#112;&#114;&#97;&#106;&#119;&#101;&#108;&#112;&#106;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;**
 
-I have been part of the <a href="https://www.iiap.res.in/projects/uvit/poc/">UVIT team</a> since 2016. Currently, my primary focus is on creating a **<a href="https://github.com/prajwel/UVPipe">new UVIT data release</a>**.
+Access UVIT science-ready data (Data Release Version 7) via the <a href="https://pradan.issdc.gov.in/as1/">PRADAN AstroSat Archive</a>. You can read more about this release in the <a href="https://arxiv.org/pdf/2504.00982">UVIT Data Release Version 7 article</a>.
 
-I am **passionate about open-source software**—you can explore my work on <a href="https://github.com/prajwel">my Github profile</a>.
+I am **passionate about open-source software**—you can explore my work on <a href="https://github.com/prajwel">my Github profile</a>. 
 
-Find <a href="https://scholar.google.co.in/citations?user=zSnUDggAAAAJ&hl=en">**my publications on Google Scholar**</a>. I enjoy exploring new and challenging questions in astrophysics, especially those related to the role of supermassive black holes in shaping galaxies.
+Find <a href="https://scixplorer.org/search?n=50&p=1&q=orcid%3A0000-0003-1409-1903&sort=date+desc">**my publications on SciX**</a>. I enjoy exploring new and challenging questions in astrophysics, especially those related to the role of supermassive black holes in shaping galaxies.
 
 Beyond my professional work, I find joy in art, music, films, poetry, and all the little things that make life truly beautiful. I’m drawn to political values grounded in compassion and a deep desire to ease suffering wherever it exists.
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:nwy3smcgecvmxcz2d3r4wv5w/app.bsky.feed.post/3ljkn6x24ls2h" data-bluesky-cid="bafyreig6ojovawe7ezcvdtss6e5jnzpq4ukvwl23zq2s4b73z2mf4bfr3u" data-bluesky-embed-color-mode="system"><p lang="en">ARTSonomy! 
