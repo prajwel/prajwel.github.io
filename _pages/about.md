@@ -10,7 +10,7 @@ redirect_from:
 
 **I am a project scientist** at the <a href="https://en.wikipedia.org/wiki/AstroSat">AstroSat</a> UltraViolet Imaging Telescope (<a href="https://www.iiap.res.in/projects/uvit/">UVIT</a>) Payload Operations Centre (POC), based at the Indian Institute of Astrophysics, Bangalore. I've been part of the <a href="https://www.iiap.res.in/projects/uvit/poc/">UVIT team</a> since 2016. UVIT is a high-resolution ultraviolet space telescope onboard India’s AstroSat mission. You can explore some of its stunning images <a href="https://www.flickr.com/photos/iiabengaluru/albums/72177720319674566/">here</a>.
 
-📬 **&#69;&#109;&#97;&#105;&#108;:** **&#112;&#114;&#97;&#106;&#119;&#101;&#108;&#112;&#106;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;**
+📬 **&#69;&#109;&#97;&#105;&#108;:** **&#112;&#114;&#97;&#106;&#119;&#101;&#108;&#112;&#106;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;**, <a href="https://github.com/prajwel/Curriculum_vitae/blob/b7f992a6bfce3510bab2a6dfd45d9dbb75e77014/rendercv_output/Prajwel_Payyappilly_Joseph_CV.pdf">My Curriculum vitae</a>
 
 Access UVIT science-ready data (Data Release Version 7) via the <a href="https://pradan.issdc.gov.in/as1/">PRADAN AstroSat Archive</a>. You can read more about this release in the <a href="https://arxiv.org/pdf/2504.00982">UVIT Data Release Version 7 article</a>.
 
