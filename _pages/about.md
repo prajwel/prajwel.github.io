@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**I am a project scientist** at the <a href="https://en.wikipedia.org/wiki/AstroSat">AstroSat</a> UltraViolet Imaging Telescope (<a href="https://www.iiap.res.in/projects/uvit/">UVIT</a>) Payload Operations Centre (POC), based at the Indian Institute of Astrophysics, Bangalore. I've been part of the <a href="https://www.iiap.res.in/projects/uvit/poc/">UVIT team</a> since 2016. UVIT is a high-resolution ultraviolet space telescope onboard India’s AstroSat mission. You can explore some of its stunning images <a href="https://www.flickr.com/photos/iiabengaluru/albums/72177720319674566/">here</a>.
+**I am a project scientist** at the <a href="https://en.wikipedia.org/wiki/AstroSat">AstroSat</a> UltraViolet Imaging Telescope (<a href="https://www.iiap.res.in/projects/uvit/">UVIT</a>) Payload Operations Centre (POC), based at the Indian Institute of Astrophysics, Bangalore. I've been part of the <a href="https://www.iiap.res.in/projects/uvit/poc/">UVIT team</a> since 2016. UVIT is a high-resolution ultraviolet space telescope onboard India’s AstroSat mission. You can explore some of its stunning images <a href="https://www.flickr.com/photos/iiabengaluru/albums/72177720319674566/">here</a>. A curated library of all UVIT-related refereed publications is maintained on <a href="https://scixplorer.org/public-libraries/-6O7VXcNTuSE-DIy8hWl6Q">SciX</a>.
 
 📬 **&#69;&#109;&#97;&#105;&#108;:** **&#112;&#114;&#97;&#106;&#119;&#101;&#108;&#112;&#106;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;**, <a href="https://raw.githubusercontent.com/prajwel/Curriculum_vitae/main/rendercv_output/Prajwel_Payyappilly_Joseph_CV.pdf">**Link to my curriculum vitae**</a>
 
